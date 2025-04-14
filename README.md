@@ -5,7 +5,7 @@ Participantes:
 
     Dayane Santana
     Gabriel Penna
-    Vinicius Santos
+    Vinicius dos Santos Amaral
 
 Descrição do Projeto
 
@@ -27,5 +27,5 @@ Python
 Arduino
 
     IDE do Arduino instalada
-    Placa Arduino conectada na porta correta (ajustar /dev/ttyACM0 no código, se necessário)
+    Placa Arduino conectada na porta correta (ajustar COM5 no código, se necessário)
 
