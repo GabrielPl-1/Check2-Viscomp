@@ -4,7 +4,7 @@ import serial
 import time
 
 # Configurar a porta serial
-arduino = serial.Serial('/dev/ttyACM0', 9600, timeout=1)
+arduino = serial.Serial('COM5', 9600, timeout=1)
 time.sleep(2)
 
 # Inicializa o MediaPipe Hands
